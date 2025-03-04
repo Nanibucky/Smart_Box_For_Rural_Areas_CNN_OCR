@@ -1,0 +1,1 @@
+# Smart_Box_For_Rural_Areas_CNN_OCR
